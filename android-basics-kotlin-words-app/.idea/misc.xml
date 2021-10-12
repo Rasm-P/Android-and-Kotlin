@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/rasmu/Documents/github/Android-and-Kotlin/android-basics-kotlin-words-app/app/src/main/res/layout/activity_detail.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/rasmu/Documents/github/Android-and-Kotlin/android-basics-kotlin-words-app/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/Users/rasmu/Documents/github/Android-and-Kotlin/android-basics-kotlin-words-app/app/src/main/res/layout/fragment_letter_list.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/rasmu/Documents/github/Android-and-Kotlin/android-basics-kotlin-words-app/app/src/main/res/layout/fragment_word_list.xml" value="0.1875" />
         <entry key="..\:/Users/rasmu/Documents/github/Android-and-Kotlin/android-basics-kotlin-words-app/app/src/main/res/menu/layout_menu.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
